@@ -666,11 +666,11 @@ nav .number-two {
   }
 
   .center-elment {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .center-elment .title {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .info {
@@ -721,6 +721,7 @@ nav .number-two {
   nav {
 	width: 500px;
     padding-right: 0px; 
+    font-size: 14px;
   } 
   
   article {
