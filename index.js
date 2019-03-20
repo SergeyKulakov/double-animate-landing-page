@@ -5,7 +5,7 @@ window.onscroll = function() {scrollBlack()};
 function load() {
 	document.getElementById("loading-image").style.width = "100%";
 	setTimeout(function(){ document.getElementById("loading").style.display = "none";}, 1500);	
-}menu-btn
+}
 
 function scrollBlack() {
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
